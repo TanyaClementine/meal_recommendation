@@ -1,0 +1,401 @@
+Recipe_ID,Meal_Type,Dish_Name,Main_ingredients,Calories,Protein,Carbohydrate,Fat,Fibre,Preparing Video,Veg_NonVeg
+br-001,Breakfast,Idli,"Rice, Urad Dal",39,2,8,0.2,0.5,https://www.youtube.com/watch?v=Ayo80PIb-Qg,Veg
+br-002,Breakfast,Rava Idli,"Semolina (Rava), Curd",62,3,12,1.5,1,https://www.youtube.com/watch?v=jyBs-tt8YfY,Veg
+br-003,Breakfast,Kanchipuram Idli,"Rice, Urad Dal, Spices",55,3,10,1.2,0.8,https://www.youtube.com/watch?v=t8YzBvznqiM,Veg
+br-004,Breakfast,Kotte Kadubu,"Rice, Urad Dal, Jackfruit Leaves",87,5,15,1.8,1.2,https://www.youtube.com/watch?v=dAKs1v7eiCw,Veg
+br-005,Breakfast,Uppu Kozhukattai,"Rice Flour, Salt",30,1,5,0.1,0.3,https://www.youtube.com/watch?v=yyi-1fSsq0k,Veg
+br-006,Breakfast,Plain Dosa,"Rice, Urad Dal",104,2,15,3.5,0.8,https://www.youtube.com/watch?v=g6lJiImhSCY,Veg
+br-007,Breakfast,Masala Dosa,"Rice, Urad Dal, Potatoes",166,4,30,7,1.5,https://www.youtube.com/watch?v=J75VQSxOtdo,Veg
+br-008,Breakfast,Ragi Dosa,"Ragi Flour, Rice Flour",109,3,20,4,1.2,https://www.youtube.com/watch?v=yxUBbslZ8UY,Veg
+br-009,Breakfast,Wheat Dosa,Whole Wheat Flour,103,3,18,3.5,1.1,https://www.youtube.com/watch?v=MRohWF_wiys,Veg
+br-010,Breakfast,Oats Dosa,"Oats, Rice Flour",105,4,19,4.5,1.3,https://www.youtube.com/watch?v=uRCQPcvPoe4,Veg
+br-011,Breakfast,Moong Dal Dosa,Green Gram (Moong Dal),120,6,20,5,1.4,https://www.youtube.com/watch?v=zDgQ-gr9ICg,Veg
+br-012,Breakfast,Adai,"Mixed Lentils, Rice",190,8,35,8,2,https://www.youtube.com/watch?v=QkMNoZ4LRtA,Veg
+br-013,Breakfast,Spinach Dosa,"Rice, Urad Dal, Spinach",90,4,12,3,1,https://www.youtube.com/watch?v=fAPpPB0fGWc,Veg
+br-014,Breakfast,Methi Dosa,"Rice, Urad Dal, Fenugreek Leaves",80,4,10,3,1,https://www.youtube.com/watch?v=SLpQBt9GKpg,Veg
+br-015,Breakfast,Banana Dosa,"Rice Flour, Banana",140,3,22,4,1.2,https://www.youtube.com/watch?v=ISWjX2h9JL8,Veg
+br-016,Breakfast,Ven Pongal,"Rice, Moong Dal, Pepper",212,5,38,5.5,2.5,https://www.youtube.com/watch?v=rjdpb2UsFJM,Veg
+br-017,Breakfast,Rava Pongal,"Semolina (Rava), Moong Dal, Spices",240,6,45,7,3,https://www.youtube.com/watch?v=U5k09qBW37Q,Veg
+br-018,Breakfast,Kuthiraivali Pongal,"Barnyard Millet, Moong Dal",180,5,40,5,2.5,https://www.youtube.com/watch?v=h9pqLxXzEO4,Veg
+br-019,Breakfast,Thinai Pongal,"Foxtail Millet, Moong Dal",170,5,36,4.5,2.2,https://www.youtube.com/watch?v=BBGWjURLPTs,Veg
+br-020,Breakfast,Quinoa Pongal,"Quinoa, Moong Dal",160,5,35,4,2,https://www.youtube.com/watch?v=Dcbs_1hHQq4,Veg
+br-021,Breakfast,Rava Upma,"Semolina (Rava), Vegetables",222,4,40,7,2.8,https://www.youtube.com/watch?v=cAoYsLXUKGI,Veg
+br-022,Breakfast,Vegetable Upma,"Semolina (Rava), Water",210,5,38,6,2.5,https://www.youtube.com/watch?v=KNsC1GIhT0Q,Veg
+br-023,Breakfast,Semiya Upma,"Vermicelli (Semiya), Vegetables",192,4,34,5.5,2.2,https://www.youtube.com/watch?v=3G-7eGSy-Hk,Veg
+br-024,Breakfast,Aval Upma,"Flattened Rice (Aval), Spices",180,4,32,4,2,https://www.youtube.com/watch?v=0bLUWQjOtSI,Veg
+br-025,Breakfast,Broken Wheat Upma,"Broken Wheat, Vegetables",180,5,35,5,2.4,https://www.youtube.com/watch?v=wOcwdx-oqNg,Veg
+br-026,Breakfast,Kuthiraivali Upma,"Barnyard Millet, Vegetables",176,6,40,6,2.8,https://www.youtube.com/watch?v=rmppk5AQzek,Veg
+br-027,Breakfast,Thinai Upma,"Foxtail Millet, Vegetables",172,5,38,5.5,2.5,https://www.youtube.com/watch?v=biX6ou0ZFSE,Veg
+br-028,Breakfast,Lemon Rice,"Rice, Lemon, Spices",190,4,35,4.5,2,https://www.youtube.com/watch?v=XpJdJmv0Ylk,Veg
+br-029,Breakfast,Coconut Rice,"Rice, Coconut, Spices",330,4,42,6,3,https://www.youtube.com/watch?v=Ry4BUn2Ku_g,Veg
+br-030,Breakfast,Tamarind Rice,"Rice, Tamarind, Spices",200,6,50,10,4,https://www.youtube.com/watch?v=We8Kdc0cWGA,Veg
+br-031,Breakfast,Curd Rice,"Rice, Curd, Tempering",230,5,44,7,3.2,https://www.youtube.com/watch?v=VFpzansM-XM,Veg
+br-032,Breakfast,Aatukaal Paya with Idiyappam,"Mutton Paya, Idiyappam",270,4,42,6,3,https://www.youtube.com/watch?v=Aq0DMCK8zZM,Veg
+br-033,Breakfast,Rice Puttu,"Rice Flour, Coconut, Jaggery",290,5,46,7,3.5,https://www.youtube.com/watch?v=Isu2GuDYw7E,Veg
+br-034,Breakfast,Ragi Puttu,"Ragi Flour, Coconut, Jaggery",150,5,40,5,2.8,https://www.youtube.com/watch?v=IrMLDk3vmCo,Veg
+br-035,Breakfast,Wheat Puttu,"Wheat Flour, Coconut, Jaggery",122,7,30,2.5,1.5,https://www.youtube.com/watch?v=b_ee5mgdX0o,Veg
+br-036,Breakfast,Cornmeal Puttu,"Cornmeal, Coconut, Jaggery",220,6,42,7,3,https://www.youtube.com/watch?v=kPdoV4YAWX8,Veg
+br-037,Breakfast,Bajra Khichdi,"Pearl Millet, Spices",110,6,30,4,2,https://www.youtube.com/watch?v=A0Pym2NDtXE,Veg
+br-038,Breakfast,Saamai Idli,"Little Millet, Urad Dal",100,5,25,3.5,1.8,https://www.youtube.com/watch?v=buq_vPr6AbY,Veg
+br-039,Breakfast,Varagu Arisi Pongal,"Kodo Millet, Moong Dal",95,4,20,3,1.5,https://www.youtube.com/watch?v=-ZE5eMTpkfY,Veg
+br-040,Breakfast,Thinai Dosa,"Foxtail Millet, Lentils",200,3,40,6,2.5,https://www.youtube.com/watch?v=XtLtFhtNW9w,Veg
+br-041,Breakfast,Idiyappam,"Rice Flour, Coconut Milk",190,3,36,5.5,2.2,https://www.youtube.com/watch?v=QhBRC1Gq8QM,Veg
+br-042,Breakfast,Kozhukattai,"Rice Flour, Coconut Filling",116,4,18,2.5,1,https://www.youtube.com/watch?v=YeKgBkhHTjQ,Veg
+br-043,Breakfast,Chicken Kurma With Raagi Idyappam,"Chicken, Raagi Idiyappam",190,4,35,6,2.4,https://www.youtube.com/watch?v=vYyCMb6uzAg,Veg
+br-044,Breakfast,Pidi Kozhukattai,"Rice Flour, Water",130,5,22,2,1.5,https://www.youtube.com/watch?v=OKj7dDJ9f5k,Veg
+br-045,Breakfast,Beef Pepper Roast with Dosa,"Beef, Pepper, Dosa",200,3,40,6,2.8,https://www.youtube.com/watch?v=0W6uY3_Jo3E,Veg
+br-046,Breakfast,Mooli Paratha,"Radish, Whole Wheat Flour",250,6,45,7.5,3.5,https://www.youtube.com/watch?v=SGW_svHzzeE,Veg
+br-047,Breakfast,Avocado Chapati,"Avocado, Whole Wheat Flour",280,7,48,8,3.8,https://www.youtube.com/shorts/8QsTKfCKr4U,Veg
+br-048,Breakfast,Ragi Roti,"Ragi Flour, Spices",250,8,50,10,4,https://www.youtube.com/watch?v=DZmt0OZPVyU,Veg
+br-049,Breakfast,Akki Roti,"Rice Flour, Spices",400,6,60,15,4.5,https://www.youtube.com/watch?v=O0190fgPx4o,Veg
+br-050,Breakfast,Thalipeeth,"Rice Flour, Lentils",350,7,55,12,4.2,https://www.youtube.com/watch?v=5Bg9rts-0UQ,Veg
+br-051,Breakfast,Kadala Curry with Puttu,"Black Chickpeas, Coconut",140,6,15,3.5,0.8,https://www.youtube.com/watch?v=Rr72jCYwMdc,Veg
+br-052,Breakfast,Vegetable Kurma with Chapati,"Vegetables, Spices, Wheat",80,5,10,2,0.5,https://www.youtube.com/watch?v=Aml3Uc_6sFY,Veg
+br-053,Breakfast,Sambar Idli,"Idli, Sambar",167,5,20,4.5,1.2,https://www.youtube.com/watch?v=nIoIzarlQ1k,Veg
+br-054,Breakfast,Chutney Dosa,"Coconut Chutney, Dosa",98,3,12,3,0.8,https://www.youtube.com/watch?v=h1YFkqp6K0w,Veg
+br-055,Breakfast,Mini Idli with Ghee and Podi,"Idli, Ghee, Podi",220,3,45,8,3,https://www.youtube.com/watch?v=QOn__34rBxA&t=262s,Veg
+br-056,Breakfast,Ghee Pongal with Coconut Chutney,"Moong Dal, Ghee",250,4,40,6,2.5,https://www.youtube.com/watch?v=0SZQEGoSiSU,Veg
+br-057,Breakfast,Masala Dosa with Sambar,"Rice, Lentils, Potato Filling",210,6,35,7.5,2.2,https://www.youtube.com/watch?v=PFG1aeYgi7c,Veg
+br-058,Breakfast,Batata Vada,"Potatoes, Chickpea Flour",320,4,50,9,3.5,https://www.youtube.com/watch?v=vxsZ3EM8KsY,Veg
+br-059,Breakfast,Keerai Vadai,"Spinach, Lentils",260,5,48,10,3.2,https://www.youtube.com/watch?v=Hy8QIIVy3CE,Veg
+br-060,Breakfast,Medu Vada,"Black Gram, Rice Flour",105,3,8,1.5,0.5,https://www.youtube.com/watch?v=Zjm9fQBBHiM,Veg
+br-061,Breakfast,Masala Vadai,"Chana Dal, Spices",60,5,6,1,0.3,https://www.youtube.com/watch?v=iW5YUWujQVo,Veg
+br-062,Breakfast,Sweet Pongal,"Rice, Jaggery, Ghee",140,6,28,5,1.5,https://www.youtube.com/watch?v=6IgXW_5YlI4,Veg
+br-063,Breakfast,Coconut Jaggery Dosa,"Rice Flour, Coconut, Jaggery",200,6,38,6,2,https://www.youtube.com/watch?v=-80Wqu2wvZQ,Veg
+br-064,Breakfast,Wheat Halwa,"Wheat Flour, Ghee",100,4,15,2.5,0.8,https://www.youtube.com/watch?v=_-h8TGodFq4,Veg
+br-065,Breakfast,Semiya Kesari,"Vermicelli, Sugar, Ghee",240,4,50,10,3.5,https://www.youtube.com/watch?v=ID2ohHZnOsY,Veg
+br-066,Breakfast,Vazhaipoo Vadai,"Banana Flower, Spices",130,7,10,2,0.5,https://www.youtube.com/watch?v=FDflvYDHGCU,Veg
+br-067,Breakfast,Kathirikai Pongal,"Rice, Brinjal, Ghee",60,3,5,0.5,0.2,https://www.youtube.com/watch?v=KkXKT1aU0Uw,Veg
+br-068,Breakfast,Mango Rice,"Raw Mango, Rice",140,6,18,3,1,https://www.youtube.com/watch?v=4xXl-KRv6A0,Veg
+br-069,Breakfast,Pal Kozhukattai,"Rice Flour, Milk, Sugar",210,5,35,6.5,2.5,https://www.youtube.com/watch?v=8s4UhuEYs2A,Veg
+br-070,Breakfast,Vazhai Thandu Dosa,"Banana Stem, Lentils",275,6,42,7,3,https://www.youtube.com/watch?v=Qd1lna6n4H8,Veg
+br-071,Breakfast,Green Gram Sundal,"Green Gram, Spices",120,5,8,1,0.5,https://www.youtube.com/watch?v=o9vCpFbsDmw,Veg
+br-072,Breakfast,Peanut Sundal,"Peanuts, Spices",300,7,48,8,3.8,https://www.youtube.com/watch?v=IK-vvHt_i98,Veg
+br-073,Breakfast,Chickpea Sundal,"Chickpeas, Coconut",310,5,50,9,4,https://www.youtube.com/watch?v=IxGI5Z4xQCA,Veg
+br-074,Breakfast,Neer Dosa,"Rice Flour, Coconut Milk",105,4,20,3,1,https://www.youtube.com/watch?v=UGvixjl9ik4,Veg
+br-075,Breakfast,Appam with Coconut Milk,Fermented Rice Batter,215,3,35,6.5,2.5,https://www.youtube.com/watch?v=i6_Qh1tkk6s,Veg
+br-076,Breakfast,Karupatti Paniyaram,"Palm Jaggery, Rice Flour",190,3,30,5,2,https://www.youtube.com/watch?v=zcgspV3aCLM,Veg
+br-077,Breakfast,Kuzhi Paniyaram,"Rice Batter, Spices",150,6,18,3,1,https://www.youtube.com/watch?v=_-iqfKBad20,Veg
+br-078,Breakfast,Sweet Paniyaram,"Jaggery, Rice Batter",115,6,15,2,0.8,https://www.youtube.com/watch?v=b_a9PbuYmq8,Veg
+br-079,Breakfast,Quinoa Idli,"Quinoa, Urad Dal",320,6,45,9,3.5,https://www.youtube.com/watch?v=miye3mEeh6c,Veg
+br-080,Breakfast,Quinoa Upma,"Quinoa, Vegetables",220,6,40,5.5,2.8,https://www.youtube.com/watch?v=-3yiwgdROMc,Veg
+br-081,Breakfast,Ragi Semiya Upma,"Ragi Semiya, Vegetables",290,7,42,6,3,https://www.youtube.com/watch?v=khx7vcqH8yc,Veg
+br-082,Breakfast,Millet Paniyaram,"Millet, Fermented Batter",210,7,36,5,2.5,https://www.youtube.com/watch?v=-mUclNoxlhY,Veg
+br-083,Breakfast,Oats Pongal,"Oats, Lentils",150,8,15,2,1,https://www.youtube.com/watch?v=NcsswkLHM0k,Veg
+br-084,Breakfast,Broccoli Dosa,"Broccoli, Rice Batter",130,4,22,4,1.5,https://www.youtube.com/shorts/gYL3t-2NCZQ,Veg
+br-085,Breakfast,Beetroot Idli,"Beetroot, Rice Batter",330,7,50,8,3.8,https://www.youtube.com/watch?v=_NnvUPJMSPc,Veg
+br-086,Breakfast,Egg Dosa,"Egg, Dosa Batter",90,6,12,1.5,0.8,https://www.youtube.com/watch?v=12ygUCpmvBU,Non-Veg
+br-087,Breakfast,Lentil Pancakes,"Lentils, Spices",180,4,35,4.5,2,https://www.youtube.com/watch?v=oRB3NRpzjpI,Veg
+br-088,Breakfast,Rajma Sundal,"Kidney Beans, Coconut",120,7,18,2.5,1,https://www.youtube.com/watch?v=DLTJn5bmWGo,Veg
+br-089,Breakfast,Bread Upma,"Bread, Vegetables, Spices",260,6,38,6,2.8,https://www.youtube.com/watch?v=h8CWDeRInoM,Veg
+br-090,Breakfast,Vegetable Sandwich with South Indian Spices,"Vegetables, Bread",220,6,35,5.5,2.5,https://www.youtube.com/shorts/AB4kYl2GSfk,Veg
+br-091,Breakfast,Cabbage Dosa,"Cabbage, Dosa Batter",195,6,25,3.5,1.8,https://www.youtube.com/watch?v=K6uBTJtDBxI,Veg
+br-092,Breakfast,Corn Dosa,"Corn, Rice Batter",200,7,24,3,1.5,https://www.youtube.com/watch?v=-eQ4MPlBoiU,Veg
+br-093,Breakfast,Tomato Rice,"Rice, Tomatoes, Spices",150,7,20,3.5,1.2,https://www.youtube.com/watch?v=W4rvMmdMxwE,Veg
+br-094,Breakfast,Onion Uthappam,"Rice Batter, Onions",250,8,42,7,3,https://www.youtube.com/watch?v=MW3JZwjn8gY,Veg
+br-095,Breakfast,Egg Appam,"Egg, Rice Batter",105,4,10,2,0.5,https://www.youtube.com/watch?v=UUdmDIepQ4k,Non-Veg
+br-096,Breakfast,Curry Leaf Idli,"Curry Leaves, Rice Batter",60,7,8,1.5,0.5,https://www.youtube.com/watch?v=c8h0l0BLqBg,Veg
+br-097,Breakfast,Bitter Gourd Dosa,"Bitter Gourd, Rice Batter",150,6,12,1.5,3.8,https://www.youtube.com/watch?v=kgt0SvARvVw,Veg
+br-098,Breakfast,Ridge Gourd Chutney with Idli,"Ridge Gourd, Rice Batter",130,4,35,4.5,0.8,https://www.youtube.com/watch?v=86FFrOcZ1yQ,Veg
+br-099,Breakfast,Drumstick Leaf Adai,"Drumstick Leaves, Lentils",330,8,18,2.5,2,https://www.youtube.com/watch?v=2sjbtyD9AGQ,Veg
+br-100,Breakfast,Banana Stem Upma,"Banana Stem, Spices",90,4,38,6,1,https://www.youtube.com/watch?v=jyYHeTIrgNc,Veg
+ln-001,Lunch,Lemon rice with roasted peanuts,"Rice, Lemon juice, Roasted peanuts, Green chilies, Curry leaves, Turmeric powder, Mustard seeds",280,8,45,12,3,https://www.youtube.com/watch?v=77uFzYmmZbY,Veg
+ln-002,Lunch,Tamarind rice with sesame seeds,"Rice, Tamarind pulp, Sesame seeds, Red chilies, Curry leaves, Mustard seeds, Asafoetida",300,6,50,10,3,https://www.youtube.com/watch?v=5u8dTN-_BJc,Veg
+ln-003,Lunch,Coconut rice with curry leaves,"Rice, Grated coconut, Curry leaves, Green chilies, Mustard seeds, Cashew nuts",320,5,48,15,2.5,https://www.youtube.com/watch?v=MoDE9R0ZL4c,Veg
+ln-004,Lunch,Tomato rice with fresh coriander,"Rice, Tomatoes, Fresh coriander, Green chilies, Ginger-garlic paste, Mustard seeds",260,6,40,8,2.5,https://www.youtube.com/watch?v=a4cmTIoY5OY,Veg
+ln-005,Lunch,Spinach rice with garlic tempering,"Rice, Spinach, Garlic, Green chilies, Curry leaves, Cumin seeds",240,7,38,7,3,https://www.youtube.com/watch?v=WPym74iN2BU,Veg
+ln-006,Lunch,Brown rice vegetable biryani,"Brown rice, Mixed vegetables (carrots, beans, peas), Onion, Tomato, Biryani spices, Yogurt",350,8,55,8,4,https://www.youtube.com/watch?v=X4_94BGUZoA,Veg
+ln-007,Lunch,Millet pulao with mixed vegetables,"Millet (foxtail/barnyard), Mixed vegetables (carrots, beans, peas), Onion, Green chilies, Spices",300,9,50,9,4.5,https://www.youtube.com/watch?v=eCDkjrKXsrk,Veg
+ln-008,Lunch,Methi (fenugreek) rice with moong dal,"Rice, Methi leaves, Moong dal, Green chilies, Garlic, Mustard seeds",280,10,42,6,5,https://www.youtube.com/watch?v=F7QOY9QQg4k,Veg
+ln-009,Lunch,Rajma (red kidney beans) rice,"Rice, Rajma, Onion, Tomato, Ginger-garlic paste, Spices (cinnamon, cloves), Coriander leaves",340,12,55,5,6,https://www.youtube.com/watch?v=O6Ph6GSxF2A,Veg
+ln-010,Lunch,Curd rice with cucumber and pomegranate,"Rice, Yogurt, Cucumber, Pomegranate, Green chilies, Curry leaves, Mustard seeds",290,7,35,6,2.5,https://www.youtube.com/shorts/2dcrfxu7j1E,Veg
+ln-011,Lunch,Chicken biryani (with minimal oil),"Chicken, Basmati rice, Onion, Tomato, Yogurt, Biryani spices, Green chilies",400,25,50,10,1.5,https://www.youtube.com/watch?v=oBVaI-j-G_w,Non-Veg
+ln-012,Lunch,Mutton biryani (lightly spiced and nutritious),"Mutton, Basmati rice, Onion, Tomato, Yogurt, Spices (cinnamon, cardamom), Mint leaves",450,28,52,12,1.5,https://www.youtube.com/watch?v=HI2-u2zu8Ss,Non-Veg
+ln-013,Lunch,Egg fried rice (with vegetables),"Rice, Eggs, Mixed vegetables, Soy sauce, Garlic, Spring onions",350,15,45,8,2,https://www.youtube.com/watch?v=LU_r-NWdfSk,Non-Veg
+ln-014,Lunch,Prawn biryani with brown rice,"Prawns, Brown rice, Onion, Tomato, Spices (bay leaf, cinnamon, cloves), Yogurt",380,22,50,9,3,https://www.youtube.com/watch?v=jojL22JStng,Non-Veg
+ln-015,Lunch,Fish pulao with coconut milk,"Fish, Rice, Coconut milk, Onion, Green chilies, Curry leaves",350,20,46,10,2,https://www.youtube.com/watch?v=8VPAXlqVVo4,Non-Veg
+ln-016,Lunch,Turmeric rice with steamed veggies,"Rice, Turmeric powder, Mixed vegetables, Green chilies, Cumin seeds",230,6,40,5,3,https://www.youtube.com/watch?v=10tKPuofdeM,Veg
+ln-017,Lunch,Sweet corn rice with fresh herbs,"Rice, Sweet corn, Coriander leaves, Green chilies, Mustard seeds",250,7,42,6,3.5,https://www.youtube.com/watch?v=FsEsRpimTcU,Veg
+ln-018,Lunch,Dill leaf rice with lentils,"Rice, Dill leaves, Lentils (toor dal/moong dal), Green chilies, Mustard seeds",280,9,44,6,4,https://www.youtube.com/watch?v=ZyeUzMJywgw,Veg
+ln-019,Lunch,Black sesame rice,"Rice, Black sesame seeds, Tamarind pulp, Red chilies, Curry leaves, Mustard seeds",290,6,45,10,2,https://www.youtube.com/watch?v=suyYIAA-nJ4,Veg
+ln-020,Lunch,Foxtail millet sambar rice,"Foxtail millet, Toor dal, Tamarind pulp, Sambar powder, Mixed vegetables, Curry leaves",300,9,48,7,4,https://www.youtube.com/watch?v=_CaVjBRZDRU,Veg
+ln-021,Lunch,Vendakkai puli kuzhambu (okra tamarind curry),"Okra, Tamarind pulp, Sambar powder, Onion, Garlic, Curry leaves",180,5,20,5,3.5,https://www.youtube.com/watch?v=Y6TB2GO1NUM,Veg
+ln-022,Lunch,Murungakkai kuzhambu (drumstick tamarind curry),"Drumstick, Tamarind pulp, Sambar powder, Garlic, Curry leaves",170,4,18,5,4,https://www.youtube.com/watch?v=lhY4hr7EHSM,Veg
+ln-023,Lunch,Sundakkai kuzhambu (turkey berry curry),"Turkey berries, Tamarind pulp, Sambar powder, Garlic, Curry leaves",160,5,15,5,4.5,https://www.youtube.com/watch?v=z09YvBfGGKY,Veg
+ln-024,Lunch,Paruppu kuzhambu (lentil-based gravy),"Toor dal, Tamarind pulp, Turmeric powder, Green chilies, Curry leaves, Mustard seeds",220,10,25,6,4.5,https://www.youtube.com/watch?v=Mc1CdSTN5fc,Veg
+ln-025,Lunch,Vazhaipoo kootu (banana flower with lentils),"Banana flower, Moong dal, Grated coconut, Green chilies, Curry leaves, Mustard seeds",200,9,30,6,5,https://www.youtube.com/watch?v=m4tjtylJt1g,Veg
+ln-026,Lunch,Ridge gourd curry with coconut milk,"Ridge gourd, Coconut milk, Green chilies, Garlic, Curry leaves",190,5,20,7,3,https://www.youtube.com/watch?v=T_CC2szYAB0,Veg
+ln-027,Lunch,Keerai masiyal (spinach mash),"Spinach, Garlic, Green chilies, Tamarind pulp, Mustard seeds",150,8,15,5,4.5,https://www.youtube.com/watch?v=7eDUncKwnaw&t=74s,Veg
+ln-028,Lunch,Chow chow (chayote) kootu,"Chayote, Moong dal, Grated coconut, Green chilies, Curry leaves, Mustard seeds",180,6,20,6,3.5,https://www.youtube.com/watch?v=g0f26tFSblk,Veg
+ln-029,Lunch,Pumpkin erissery (pumpkin with coconut and lentils),"Pumpkin, Toor dal, Grated coconut, Curry leaves, Mustard seeds",200,8,25,7,4.5,https://www.youtube.com/watch?v=Vc-5uiU-SAk,Veg
+ln-030,Lunch,Snake gourd kootu,"Snake gourd, Moong dal, Grated coconut, Green chilies, Curry leaves, Mustard seeds",190,6,20,5,4,https://www.youtube.com/watch?v=6zoxJnFr8N0,Veg
+ln-031,Lunch,Chettinad chicken curry,"Chicken, Onion, Tomato, Chettinad spices, Curry leaves, Coconut",250,25,10,12,1,https://www.youtube.com/watch?v=c7CqaRmVa5g,Non-Veg
+ln-032,Lunch,Kerala-style fish curry with coconut milk,"Fish, Coconut milk, Tamarind, Green chilies, Curry leaves, Ginger",280,22,15,10,1.5,https://www.youtube.com/watch?v=aROKVWwp43U,Non-Veg
+ln-033,Lunch,Mutton kuzhambu (goat curry),"Mutton, Onion, Tomato, Tamarind, Curry leaves, Spices (cinnamon, cloves, cardamom)",350,28,12,15,1.5,https://www.youtube.com/watch?v=--vOpqHjYZc,Non-Veg
+ln-034,Lunch,Prawn masala with tomatoes,"Prawns, Onion, Tomato, Ginger-garlic paste, Curry leaves, Spices",220,22,10,8,1.5,https://www.youtube.com/watch?v=-Y0NnCu3AM4,Non-Veg
+ln-035,Lunch,Egg curry with curry leaves,"Eggs, Onion, Tomato, Ginger-garlic paste, Curry leaves, Spices",250,14,10,7,1,https://www.youtube.com/watch?v=03_fpImPFaY,Non-Veg
+ln-036,Lunch,Chicken drumstick kuzhambu,"Chicken drumsticks, Onion, Tomato, Tamarind, Curry leaves, Spices",300,24,12,10,1.5,https://www.youtube.com/watch?v=0Vruli0VibI,Non-Veg
+ln-037,Lunch,Crab masala with pepper,"Crab, Onion, Tomato, Ginger-garlic paste, Pepper, Curry leaves",230,22,10,12,1,https://www.youtube.com/watch?v=_yWjgJHU--s,Non-Veg
+ln-038,Lunch,Meen kuzhambu (tamarind-based fish curry),"Fish, Tamarind, Onion, Tomato, Curry leaves, Spices",220,20,15,8,1.5,https://www.youtube.com/watch?v=8oo_oUDdiMY,Non-Veg
+ln-039,Lunch,Mutton liver curry,"Mutton liver, Onion, Tomato, Garlic, Pepper, Curry leaves",280,28,10,12,1,https://www.youtube.com/watch?v=V-djEYyl_iA,Non-Veg
+ln-040,Lunch,Chicken stew with coconut milk,"Chicken, Coconut milk, Onion, Green chilies, Ginger, Curry leaves",320,25,15,10,1.5,https://www.youtube.com/watch?v=HIsxMybJ-z0,Non-Veg
+ln-041,Lunch,Carrot and beans poriyal,"Carrots, Beans, Grated coconut, Green chilies, Curry leaves, Mustard seeds",100,4,12,5,3.5,https://www.youtube.com/watch?v=48QMJ1Zi2uY,Veg
+ln-042,Lunch,Cabbage stir-fry with coconut,"Cabbage, Grated coconut, Green chilies, Curry leaves, Mustard seeds",110,3,10,6,3,https://www.youtube.com/watch?v=CA-Bz9WVnwQ,Veg
+ln-043,Lunch,Broad beans (avarakkai) poriyal,"Broad beans, Grated coconut, Green chilies, Curry leaves, Mustard seeds",120,5,14,5,3.5,https://www.youtube.com/watch?v=BRLPyAqCu1E,Veg
+ln-044,Lunch,Drumstick leaves stir-fry,"Drumstick leaves, Grated coconut, Garlic, Green chilies, Mustard seeds",90,7,8,7,4,https://www.youtube.com/watch?v=3IukxcxtwrY,Veg
+ln-045,Lunch,Bitter gourd fry (shallow-fried with minimal oil),"Bitter gourd, Turmeric powder, Red chili powder, Curry leaves, Minimal oil",130,4,10,6,3,https://www.youtube.com/watch?v=ZnoBvQI8aaE,Veg
+ln-046,Lunch,Pumpkin and moong dal kootu,"Pumpkin, Moong dal, Grated coconut, Green chilies, Curry leaves, Mustard seeds",180,9,18,7,4,https://www.youtube.com/watch?v=Qh2dbNNFmU0,Veg
+ln-047,Lunch,Beetroot poriyal with grated coconut,"Beetroot, Grated coconut, Green chilies, Curry leaves, Mustard seeds",120,4,15,5,3,https://www.youtube.com/watch?v=5WWfNg-eEnE,Veg
+ln-048,Lunch,Raw banana fry with curry leaves,"Raw banana, Turmeric powder, Curry leaves, Red chili powder, Minimal oil",150,3,20,8,3.5,https://www.youtube.com/watch?v=eQxbAt9cX5U&t=30s,Veg
+ln-049,Lunch,Ash gourd (poosanikkai) kootu,"Ash gourd, Moong dal, Grated coconut, Green chilies, Curry leaves, Mustard seeds",160,4,14,6,3,https://www.youtube.com/watch?v=ZJtJwYv2P9U,Veg
+ln-050,Lunch,Plantain stem (vazhaithandu) stir-fry,"Plantain stem, Grated coconut, Green chilies, Curry leaves, Mustard seeds",100,3,10,4,3.5,https://www.youtube.com/watch?v=4xMBydpYX9M&t=18s,Veg
+ln-051,Lunch,Tomato rasam,"Tomato, Tamarind, Black pepper, Curry leaves, Coriander leaves, Mustard seeds",60,2,6,2,2,https://www.youtube.com/watch?v=n5xVP6urnuY,Veg
+ln-052,Lunch,Garlic rasam with black pepper,"Garlic, Tamarind, Black pepper, Curry leaves, Mustard seeds",70,2,7,3,2.5,https://www.youtube.com/shorts/-2sheLdPYZQ,Veg
+ln-053,Lunch,Lemon rasam with ginger,"Lemon juice, Ginger, Tamarind, Curry leaves, Black pepper, Mustard seeds",65,2,6,2,2,https://www.youtube.com/watch?v=-2E4rm7VKm8,Veg
+ln-054,Lunch,Horse gram rasam (kollu rasam),"Horse gram, Tamarind, Black pepper, Curry leaves, Coriander leaves, Mustard seeds",80,5,8,3,3.5,https://www.youtube.com/watch?v=q-wmwuG5Izg,Veg
+ln-055,Lunch,Pineapple rasam,"Pineapple, Tamarind, Black pepper, Curry leaves, Coriander leaves, Mustard seeds",70,1,9,2,2,https://www.youtube.com/watch?v=UgaMGGyq5MI,Veg
+ln-056,Lunch,Drumstick rasam,"Drumstick, Tamarind, Black pepper, Curry leaves, Coriander leaves, Mustard seeds",75,3,8,3,3,https://www.youtube.com/watch?v=cpXIUJ5UReM,Veg
+ln-057,Lunch,Pepper rasam (milagu rasam),"Tamarind, Black pepper, Curry leaves, Coriander leaves, Mustard seeds",65,2,7,3,2.5,https://www.youtube.com/watch?v=EhFJcQwxWf0,Veg
+ln-058,Lunch,Mango rasam,"Raw mango, Tamarind, Black pepper, Curry leaves, Coriander leaves, Mustard seeds",80,2,9,2,2,https://www.youtube.com/watch?v=I8MXDcsYuHI,Veg
+ln-059,Lunch,Coriander rasam,"Coriander leaves, Tamarind, Black pepper, Curry leaves, Mustard seeds",70,2,6,3,2.5,https://www.youtube.com/watch?v=aKVH5m9x780,Veg
+ln-060,Lunch,Mint rasam,"Mint leaves, Tamarind, Black pepper, Curry leaves, Coriander leaves, Mustard seeds",70,2,7,3,2.5,https://www.youtube.com/watch?v=lHDy08M8pL4,Veg
+ln-061,Lunch,Soya chunks curry,"Soya chunks, Onion, Tomato, Ginger-garlic paste, Curry leaves, Spices",180,12,15,6,3,https://www.youtube.com/watch?v=fmD9cJ51xng,Veg
+ln-062,Lunch,Green gram sundal (stir-fried sprouts),"Green gram sprouts, Grated coconut, Green chilies, Curry leaves, Mustard seeds",140,8,20,5,4,https://www.youtube.com/watch?v=io_OMBytLj4,Veg
+ln-063,Lunch,Black chickpea masala,"Black chickpeas, Onion, Tomato, Ginger-garlic paste, Curry leaves, Spices",220,10,25,7,6,https://www.youtube.com/watch?v=iJTapmv0qW8,Veg
+ln-064,Lunch,Rajma curry,"Rajma, Onion, Tomato, Ginger-garlic paste, Spices (cinnamon, cloves), Coriander leaves",250,12,30,5,5.5,https://www.youtube.com/watch?v=nnvk38T-iq8,Veg
+ln-065,Lunch,Peanut masala curry,"Peanuts, Onion, Tomato, Ginger-garlic paste, Curry leaves, Spices",240,8,15,8,4.5,https://www.youtube.com/watch?v=wNU1Z-LK38Y,Veg
+ln-066,Lunch,Horse gram gravy,"Horse gram, Tamarind, Onion, Garlic, Curry leaves, Black pepper",200,10,18,6,5,https://www.youtube.com/watch?v=8OHkpjKbj4c,Veg
+ln-067,Lunch,Sprouted moong dal curry,"Sprouted moong dal, Onion, Tomato, Green chilies, Curry leaves, Spices",190,9,20,5,4.5,https://www.youtube.com/watch?v=FfxaWQPA2i4,Veg
+ln-068,Lunch,Egg masala with curry leaves,"Eggs, Onion, Tomato, Ginger-garlic paste, Curry leaves, Spices",220,14,8,8,1,https://www.youtube.com/watch?v=tsj_WKSYf6I&t=164s,Non-Veg
+ln-069,Lunch,Chicken liver fry (shallow-fried),"Chicken liver, Onion, Ginger-garlic paste, Curry leaves, Black pepper",300,25,6,9,1,https://www.youtube.com/watch?v=mF1NwEzAYSU,Non-Veg
+ln-070,Lunch,Fish fry (pan-seared with minimal oil),"Fish, Turmeric powder, Red chili powder, Curry leaves, Minimal oil",180,22,5,8,1,https://www.youtube.com/shorts/Y-mhnOxL75Q,Non-Veg
+ln-071,Lunch,Little millet curd rice,"Little millet, Yogurt, Green chilies, Curry leaves, Cucumber, Pomegranate",260,7,35,6,3,https://www.youtube.com/watch?v=LohcQkSJccM,Veg
+ln-072,Lunch,Kodo millet vegetable biryani,"Kodo millet, Mixed vegetables, Onion, Tomato, Biryani spices, Yogurt",320,8,40,7,4.5,https://www.youtube.com/watch?v=HkKBEQNGltE,Veg
+ln-073,Lunch,Barnyard millet khichdi,"Barnyard millet, Moong dal, Mixed vegetables, Ginger, Ghee, Spices",290,9,38,6,4.5,https://www.youtube.com/watch?v=ZcCPUvGmBO8,Veg
+ln-074,Lunch,Pearl millet (kambu) with sambar,"Pearl millet, Sambar dal (toor dal), Tamarind, Curry leaves, Vegetables",280,8,35,6,4,https://www.youtube.com/watch?v=cmSytSpSkqg,Veg
+ln-075,Lunch,Foxtail millet pongal with ghee,"Foxtail millet, Moong dal, Black pepper, Ginger, Ghee",310,8,40,8,3.5,https://www.youtube.com/watch?v=t4EmZG-vpR8,Veg
+ln-076,Lunch,Sorghum (jowar) with tamarind gravy,"Sorghum, Tamarind, Garlic, Curry leaves, Spices",270,7,38,6,4,https://www.youtube.com/watch?v=zOabt5o6Qb8,Veg
+ln-077,Lunch,Ragi mudde with chicken gravy,"Ragi flour, Chicken, Onion, Tomato, Spices, Curry leaves",350,26,35,12,3.5,https://www.youtube.com/watch?v=B_e7MBBbZAQ,Non-Veg
+ln-078,Lunch,Millet and lentil khichdi,"Millet, Moong dal, Ginger, Green chilies, Ghee, Spices",300,10,38,8,4.5,https://www.youtube.com/watch?v=Wx3bwH9Burw,Veg
+ln-079,Lunch,Tandoori chicken (grilled),"Chicken, Yogurt, Ginger-garlic paste, Lemon juice, Spices",240,25,5,7,1,https://www.youtube.com/watch?v=xjxkg2HEfYk,Non-Veg
+ln-080,Lunch,Mutton pepper fry,"Mutton, Onion, Garlic, Black pepper, Curry leaves, Spices",300,28,6,12,1,https://www.youtube.com/watch?v=zVWi00sECJo,Non-Veg
+ln-081,Lunch,Prawn stir-fry with coconut oil,"Prawns, Garlic, Green chilies, Curry leaves, Coconut oil",200,22,6,8,1,https://www.youtube.com/shorts/okVxzmZAIrA,Non-Veg
+ln-082,Lunch,Fish tikka (grilled with spices),"Fish, Yogurt, Ginger-garlic paste, Lemon juice, Spices",210,20,5,7,1,https://www.youtube.com/watch?v=DrCE35UBbCg,Non-Veg
+ln-083,Lunch,Egg burji (scrambled eggs with onions and spices),"Eggs, Onion, Tomato, Green chilies, Spices",180,14,8,8,1,https://www.youtube.com/watch?v=glUEnS8J84Q&t=10s,Non-Veg
+ln-084,Lunch,Chicken kebabs (oven-grilled),"Chicken, Yogurt, Ginger-garlic paste, Lemon juice, Spices",250,26,6,8,1,https://www.youtube.com/watch?v=p56bnzgXgVw,Non-Veg
+ln-085,Lunch,Crab sukka (semi-dry curry),"Crab, Onion, Tomato, Ginger-garlic paste, Curry leaves, Spices",230,22,8,10,1,https://www.youtube.com/watch?v=UFiNTAuy4lA,Non-Veg
+ln-086,Lunch,Sambar rice with ghee,"Rice, Toor dal, Tamarind, Sambar powder, Mixed vegetables, Curry leaves, Ghee",320,10,45,8,3.5,https://www.youtube.com/watch?v=WBekNoQ3zIY,Veg
+ln-087,Lunch,Prawn sambar with drumsticks,"Prawns, Drumsticks, Tamarind, Toor dal, Sambar powder, Curry leaves",280,18,40,7,3.5,https://www.youtube.com/watch?v=hfpAbPp5-cE,Non-Veg
+ln-088,Lunch,Chicken sambar with shallots,"Chicken, Shallots, Tamarind, Toor dal, Sambar powder, Curry leaves",300,20,42,8,3.5,https://www.youtube.com/watch?v=ndyZOIX0j2E,Non-Veg
+ln-089,Lunch,Vegetable avial with coconut,"Mixed vegetables (carrots, beans, yam), Grated coconut, Green chilies, Curry leaves, Curd",210,7,20,6,4,https://www.youtube.com/watch?v=tXA__uEn8KU,Veg
+ln-090,Lunch,Mutton sambar,"Mutton, Tamarind, Toor dal, Sambar powder, Mixed vegetables, Curry leaves",340,24,35,9,2,https://www.youtube.com/watch?v=QyDY56-99c0,Non-Veg
+ln-091,Lunch,Sprouted green gram salad,"Sprouted green gram, Grated coconut, Green chilies, Lemon juice, Coriander leaves",120,7,15,3,4,https://www.youtube.com/watch?v=gXTj3o0P0bE,Veg
+ln-092,Lunch,Raw mango salad with coconut,"Raw mango, Grated coconut, Green chilies, Coriander leaves, Lemon juice",100,2,12,4,2,https://www.youtube.com/shorts/mYresVhVj64,Veg
+ln-093,Lunch,Cucumber kosumalli with lime,"Cucumber, Grated coconut, Green chilies, Lemon juice, Coriander leaves",70,1,6,2,1,https://www.youtube.com/shorts/93ObeJsN8CE,Veg
+ln-094,Lunch,Boiled egg salad with pepper,"Boiled eggs, Black pepper, Lemon juice, Salt, Coriander leaves",90,13,2,5,1,https://www.youtube.com/watch?v=mfRqSyUdyX0,Non-Veg
+ln-095,Lunch,Beetroot salad with grated coconut,"Beetroot, Grated coconut, Green chilies, Lemon juice, Curry leaves",110,3,10,3,3,https://www.youtube.com/shorts/vzoAiqihppk,Veg
+ln-096,Lunch,Sweet potato curry,"Yam, Curry leaves, Mustard seeds, Green chilies, Coconut oil",130,2,18,2,3,https://www.youtube.com/shorts/PL92ipvWJlQ,Veg
+ln-097,Lunch,Banana stem soup,"Banana stem, Garlic, Black pepper, Curry leaves, Coconut milk",80,3,10,2,3,https://www.youtube.com/watch?v=UgNbsnpxqCw,Veg
+ln-098,Lunch,Amla (gooseberry) rasam,"Amla, Tamarind, Black pepper, Curry leaves, Coriander leaves",60,2,6,2,2.5,https://www.youtube.com/shorts/0G8ZJhgye5k,Veg
+ln-099,Lunch,Vegetable stew with coconut milk,"Mixed vegetables (carrots, beans, potatoes), Coconut milk, Green chilies, Curry leaves, Spices",180,5,15,5,3,https://www.youtube.com/watch?v=sosT0JyAhiw,Veg
+ln-100,Lunch,Thuthuvalai (herbal) soup,"Thuthuvalai leaves, Garlic, Black pepper, Tamarind, Curry leaves",70,3,5,2,2.5,https://www.youtube.com/watch?v=rwqiP0_Se8M,Veg
+dnr-001,Dinner,Avarakkai Poriyal with Red Rice,"Broad beans, red rice, mustard seeds, grated coconut, curry leaves, turmeric",210,6,42,5,7,https://www.youtube.com/watch?v=BRLPyAqCu1E&t=12s,Veg
+dnr-002,Dinner,Kootu Curry with Kerala Matta Rice,"Kerala Matta rice, mixed vegetables, black chickpeas, grated coconut, curry leaves, mustard seeds",230,8,50,6,8,https://www.youtube.com/watch?v=oRAJc2KhLXk,Veg
+dnr-003,Dinner,Vendakkai Kara Kuzhambu with Foxtail Millet,"Okra, tamarind, foxtail millet, mustard seeds, curry leaves, sambar powder",200,7,38,4,6,https://www.youtube.com/watch?v=5pDyykAFOrE,Veg
+dnr-004,Dinner,Drumstick Sambar with Broken Wheat,"Drumsticks, tamarind, toor dal, broken wheat, sambar powder",190,9,41,3,7,https://www.youtube.com/watch?v=eE3fayMOtZM,Veg
+dnr-005,Dinner,Rajma Sundal with Cucumber Salad,"Red kidney beans, cucumber, grated coconut, mustard seeds, curry leaves",180,10,35,2,9,https://www.youtube.com/watch?v=x8kZPqLWqik,Veg
+dnr-006,Dinner,Vazhaipoo Usili with Samai Rice,"Banana flower, samai rice, chana dal, red chilies, curry leaves",220,9,40,4,7,https://www.youtube.com/watch?v=rk_leztmg3Q,Veg
+dnr-007,Dinner,Mixed Vegetable Kurma with Varagu Arisi,"Mixed vegetables, coconut paste, poppy seeds, fennel, varagu rice",240,7,44,7,6,https://www.youtube.com/watch?v=PIBNjXiYJJY,Veg
+dnr-008,Dinner,Pachai Payaru Kulambu with Quinoa,"Green gram, tamarind, quinoa, mustard seeds, curry leaves",200,8,39,3,8,https://www.youtube.com/watch?v=trUHl-laZZA,Veg
+dnr-009,Dinner,Murungai Keerai Soup with Ragi Mudde,"Drumstick leaves, pepper, garlic, ragi flour, cumin",170,7,36,2,6,https://www.youtube.com/watch?v=UFBZZwxxmVk,Veg
+dnr-010,Dinner,Thakkali Rasam with Little Millet,"Tomatoes, tamarind, little millet, pepper, garlic",160,6,38,1,7,https://www.youtube.com/watch?v=M_mocqV71NM,Veg
+dnr-011,Dinner,Brinjal Gothsu with Idiyappam,"Brinjal (eggplant), tamarind, idiyappam, green chilies, mustard seeds",190,5,41,3,6,https://www.youtube.com/shorts/7IPFfm19zD4,Veg
+dnr-012,Dinner,Arachuvitta Vatha Kuzhambu with Brown Rice,"Tamarind, brown rice, freshly ground spices, curry leaves, toor dal",210,6,43,4,8,https://www.youtube.com/watch?v=H0DnyKikmzc,Veg
+dnr-013,Dinner,Spinach Molagootal with Curd Rice,"Spinach, curd rice, toor dal, grated coconut, green chilies",230,8,45,5,7,https://www.youtube.com/watch?v=ARJkirj82sw,Veg
+dnr-014,Dinner,Vegetable Stew with Neer Dosa,"Mixed vegetables, coconut milk, green chilies, curry leaves, neer dosa batter",250,5,40,6,6,https://www.youtube.com/watch?v=sosT0JyAhiw&t=10s,Veg
+dnr-015,Dinner,Chayote Fry with Lemon Quinoa,"Chayote, lemon, quinoa, mustard seeds, curry leaves",200,4,38,3,7,https://www.youtube.com/watch?v=FQEq8okNN0c,Veg
+dnr-016,Dinner,Manathakkali Keerai Kulambu with Puliyodarai,"Black nightshade leaves, tamarind, puliyodarai mix, curry leaves",220,7,43,4,6,https://www.youtube.com/watch?v=vEx-1AMv9S8,Veg
+dnr-017,Dinner,Kothamalli Sadam (Coriander Rice),"Coriander leaves, cooked rice, green chilies, curry leaves, lemon juice",240,6,42,5,6,https://www.youtube.com/watch?v=xxDQunhaw8E,Veg
+dnr-018,Dinner,Beetroot Pachadi with Millet Chapati,"Beetroot, yogurt, millet flour, mustard seeds, curry leaves",200,6,39,3,7, https://www.youtube.com/shorts/pme3abHMt0o https://www.youtube.com/watch?v=cr3ZJ3avHlI,Veg
+dnr-019,Dinner,Pumpkin Sambar with Red Poha,"Pumpkin, tamarind, red poha, toor dal, sambar powder",180,7,44,2,8, https://www.youtube.com/watch?v=ntjJNdgsvwk  https://www.youtube.com/watch?v=Oh44KmzuHPg,Veg
+dnr-020,Dinner,Thandu Keerai Paruppu Usili with Raw Banana Curry,"Amaranth leaves, chana dal, raw banana, mustard seeds, red chilies",220,8,41,5,6,https://www.youtube.com/watch?v=A99tup0G5Is  https://www.youtube.com/watch?v=MWlZqyzPZWU,Veg
+dnr-021,Dinner,Poosanikai Kootu with Jeera Samba Rice,"Ash gourd, jeera samba rice, toor dal, grated coconut, cumin",200,7,43,3,7,https://www.youtube.com/shorts/O44naBfN_kI  ,Veg
+dnr-022,Dinner,Cabbage Poriyal with Tamarind Rice,"Cabbage, tamarind rice, grated coconut, mustard seeds, curry leaves",210,6,42,4,6,https://www.youtube.com/watch?v=SLHVADjcPXw&t=5s,Veg
+dnr-023,Dinner,Karamani Kuzhambu with Ragi Mudde,"Cowpeas, tamarind, ragi flour, curry leaves, sambar powder",230,9,37,5,8,https://www.youtube.com/watch?v=epjK3MYo8ko https://www.youtube.com/watch?v=B_e7MBBbZAQ&t=12s,Veg
+dnr-024,Dinner,Ridge Gourd Stir Fry with Samai Rice,"Ridge gourd, samai rice, grated coconut, mustard seeds, curry leaves",200,6,39,3,7,https://www.youtube.com/watch?v=k8ZXAMFjsZk  https://www.youtube.com/watch?v=qZZ1_QSJYs8,Veg
+dnr-025,Dinner,Sundakkai Vatha Kuzhambu with Foxtail Millet,"Turkey berries, tamarind, foxtail millet, curry leaves, mustard seeds",210,8,38,4,6,https://www.youtube.com/watch?v=L2nM7wqh2BQ  https://www.youtube.com/watch?v=gVGlOTCNOZU,Veg
+dnr-026,Dinner,Snake Gourd Kootu with Brown Rice,"Snake gourd, brown rice, grated coconut, toor dal, curry leaves",190,7,42,2,7,https://www.youtube.com/shorts/stcUBfxKpMY  https://www.youtube.com/watch?v=6zeDZvFxXwE,Veg
+dnr-027,Dinner,Ash Gourd Curry with Thengai Sadam,"Ash gourd, coconut rice, mustard seeds, green chilies, curry leaves",210,6,40,4,6,https://www.youtube.com/watch?v=gkU5ROp9cvc  https://www.youtube.com/watch?v=MoDE9R0ZL4c&t=21s,Veg
+dnr-028,Dinner,Mango Pachadi with Red Rice,"Raw mango, red rice, yogurt, mustard seeds, green chilies",180,5,43,2,7,https://www.youtube.com/shorts/uy0V_Ljv1p4,Veg
+dnr-029,Dinner,Vazha Thandu Thoran with Lemon Quinoa,"Banana stem, lemon, quinoa, grated coconut, mustard seeds",200,4,38,3,8,https://www.youtube.com/watch?v=VYuMfi1y-k0  https://www.youtube.com/watch?v=4xMBydpYX9M&t=40s,Veg
+dnr-030,Dinner,Okra Fry with Thinai Pongal,"Okra, thinai millet, curry leaves, mustard seeds, green chilies",210,6,40,4,7,https://www.youtube.com/watch?v=t4EmZG-vpR8&t=12s  https://www.youtube.com/watch?v=RWXJyPJ5WDY,Veg
+dnr-031,Dinner,Keerai Sadam with Tomato Pachadi,"Spinach, cooked rice, tomatoes, yogurt, mustard seeds",190,8,41,3,6,https://www.youtube.com/watch?v=mjEFldtpq8E  https://www.youtube.com/watch?v=bRUvGHaoLII,Veg
+dnr-032,Dinner,Chow Chow Kootu with Ragi Mudde,"Chayote, ragi flour, toor dal, grated coconut, curry leaves",180,7,36,2,8,https://www.youtube.com/watch?v=fHuOf_7SqMg  https://www.youtube.com/watch?v=B_e7MBBbZAQ&t=18s,Veg
+dnr-033,Dinner,Drumstick Leaves Stir Fry with Millet Chapati,"Drumstick leaves, millet flour, grated coconut, mustard seeds, red chilies",220,9,39,5,7,https://www.youtube.com/watch?v=3IukxcxtwrY&t=15s  https://www.youtube.com/watch?v=cr3ZJ3avHlI&t=19s,Veg
+dnr-034,Dinner,Varuthu Araicha Sambar with Broken Wheat,"Tamarind, toor dal, broken wheat, freshly ground spices, curry leaves",200,8,41,3,7,https://www.youtube.com/shorts/Ff3CFGLmQwI,Veg
+dnr-035,Dinner,Cucumber Pachadi with Bajra Chapati,"Cucumber, yogurt, bajra flour, mustard seeds, curry leaves",160,6,37,1,6,https://www.youtube.com/watch?v=nfBsiLVZEQU  https://www.youtube.com/watch?v=z-rE_TbyNX0,Veg
+dnr-036,Dinner,Raw Mango Rice with Vendakkai Fry,"Raw mango, cooked rice, okra, green chilies, curry leaves",240,6,42,5,6,https://www.youtube.com/results?search_query=Raw+Mango+Rice+with+Vendakkai+Fry,Veg
+dnr-037,Dinner,Thattai Payiru Kulambu with Coconut Rice,"Field beans, tamarind, coconut rice, mustard seeds, curry leaves",220,8,44,4,7,https://www.youtube.com/watch?v=epjK3MYo8ko&t=17s  https://www.youtube.com/watch?v=7FW5fAKJdrA,Veg
+dnr-038,Dinner,Capsicum Masala Curry with Puliyodarai,"Capsicum, tamarind rice, onions, coconut, spices",240,6,42,5,6,https://www.youtube.com/watch?v=g1LR3PWCML4,Veg
+dnr-039,Dinner,Broad Beans Poriyal with Jeera Rice,"Broad beans, jeera rice, grated coconut, mustard seeds, curry leaves",200,7,43,3,7,https://www.youtube.com/shorts/NDn9VxQbXI0  https://www.youtube.com/watch?v=ucsjR78Ar_M,Veg
+dnr-040,Dinner,Masoor Dal Kuzhambu with Red Poha,"Masoor dal, tamarind, red poha, mustard seeds, curry leaves",180,9,41,2,7,https://www.youtube.com/watch?v=vCMA7BNH8z8  https://www.youtube.com/watch?v=wt7QD4ZYTa4,Veg
+dnr-041,Dinner,Chettinad Pepper Chicken with Samai Rice,"Chicken, black pepper, shallots, samai rice, curry leaves",250,22,40,6,4,https://www.youtube.com/watch?v=K2miSXNP_nI  https://www.youtube.com/watch?v=xHwcc-_UuPs,Non-Veg
+dnr-042,Dinner,Fish Molee with Appam,"Fish, coconut milk, ginger, green chilies, appam batter",240,20,38,5,3,https://www.youtube.com/watch?v=9qXZ_aous-Y  https://www.youtube.com/shorts/xJ-b4h2ImMs,Non-Veg
+dnr-043,Dinner,Prawn Thokku ,"Prawns, tomatoes, spices",260,18,42,6,4,https://www.youtube.com/watch?v=HNSX3FKjAIM,Non-Veg
+dnr-044,Dinner,Mutton Dalcha with Jeera Samba Rice,"Mutton, chana dal, tamarind, jeera samba rice, spices",280,23,45,7,5,https://www.youtube.com/watch?v=pFWseIDAuhE,Non-Veg
+dnr-045,Dinner,Chicken Kurma with Thengai Sadam,"Chicken, coconut paste, fennel seeds, coconut rice, spices",300,21,40,8,4,https://www.youtube.com/watch?v=tkSDLRpeC1M,Non-Veg
+dnr-046,Dinner,Crab Masala with Lemon Quinoa,"Crab, onions, tomatoes, spices, quinoa",270,19,38,7,3,https://www.youtube.com/watch?v=7J4eCLwt_34  https://www.youtube.com/watch?v=VYuMfi1y-k0&t=15s,Non-Veg
+dnr-047,Dinner,Kerala Style Fish Curry with Kuthiraivali,"Fish, coconut milk, tamarind, kuthiraivali (barnyard millet), curry leaves",250,20,37,6,3,https://www.youtube.com/watch?v=aROKVWwp43U&t=13s  https://www.youtube.com/watch?v=n6ZSGpD4Ock,Non-Veg
+dnr-048,Dinner,Nandu Rasam (Crab Soup) with Ragi Mudde,"Crab, tamarind, pepper, garlic, ragi flour",180,19,35,3,4,https://www.youtube.com/watch?v=DFE-qjgvCVU  https://www.youtube.com/watch?v=B_e7MBBbZAQ&t=32s,Non-Veg
+dnr-049,Dinner,Meen Kuzhambu with Bajra Roti,"Fish, tamarind, curry leaves, bajra flour, spices",200,18,38,4,3,https://www.youtube.com/watch?v=w5phhVjEJp8  https://www.youtube.com/watch?v=z-rE_TbyNX0&t=20s,Non-Veg
+dnr-050,Dinner,Egg Masala with Ridge Gourd Stir Fry,"Eggs, onions, tomatoes, ridge gourd, spices",230,15,37,5,4,https://www.youtube.com/watch?v=k8ZXAMFjsZk&t=13s  https://www.youtube.com/watch?v=lF5J3ggRjtU,Non-Veg
+dnr-051,Dinner,Kozhi Milagu Varuval with Thinai Pongal,"Chicken, black pepper, thinai millet, curry leaves, spices",260,22,39,6,4,https://www.youtube.com/watch?v=muQQHeBwBgA  https://www.youtube.com/watch?v=t4EmZG-vpR8&t=9s,Non-Veg
+dnr-052,Dinner,Country Chicken Soup with Red Rice,"Country chicken, red rice, garlic, pepper, curry leaves",180,21,42,3,4,https://www.youtube.com/watch?v=PnWkar7WVeg  https://www.youtube.com/shorts/ALFe-POHLxw,Non-Veg
+dnr-053,Dinner,Fish Fry with Drumstick Curry,"Fish, drumsticks, tamarind, curry leaves, spices",260,20,40,6,4,https://www.youtube.com/watch?v=o8lDCY2_jyw  https://www.youtube.com/watch?v=x8sBJF56RRo,Non-Veg
+dnr-054,Dinner,Chicken Salna with Vegetable Idiyappam,"Chicken, coconut, spices, vegetables, idiyappam batter",280,19,42,7,4,https://www.youtube.com/watch?v=MH0vB9V2daM  https://www.youtube.com/watch?v=zUlhL1Ldo4g,Non-Veg
+dnr-055,Dinner,Prawn Coconut Curry with Millet Dosa,"Prawns, coconut milk, spices, millet flour",260,18,38,6,3,https://www.youtube.com/watch?v=R8_AZ-fWejM  https://www.youtube.com/watch?v=mPOL882IZNE,Non-Veg
+dnr-056,Dinner,Mutton Sukka with Mint Rice,"Mutton, mint leaves, cooked rice, spices, curry leaves",300,24,42,8,4,https://www.youtube.com/watch?v=P2SGDHHelis  https://www.youtube.com/watch?v=DXXruLUx7Mk,Non-Veg
+dnr-057,Dinner,Egg Kurma with Avocado Chapati,"Eggs, coconut paste, fennel seeds, avocado, whole wheat flour",290,16,40,7,5,https://www.youtube.com/watch?v=iFSn8SIHmmg  https://www.youtube.com/watch?v=QP8d0qxunXQ,Non-Veg
+dnr-058,Dinner,Kola Urundai Kulambu with White Rice,"Mutton meatballs, tamarind, white rice, curry leaves, spices",320,23,44,9,4,https://www.youtube.com/watch?v=SD8qldUJrUY&t=5s,Non-Veg
+dnr-059,Dinner,Quail Curry with Foxtail Millet Dosa,"Quail, spices, foxtail millet flour, curry leaves",260,21,38,6,4,https://www.youtube.com/watch?v=31Evx1uf4Sc  https://www.youtube.com/watch?v=mPOL882IZNE&t=14s,Non-Veg
+dnr-060,Dinner,Fish Tikka with Tamarind Rice,"Fish, tamarind rice, spices, yogurt, lemon",240,20,42,5,4,https://www.youtube.com/watch?v=CtKUyA4aS9Y,Non-Veg
+dnr-061,Dinner,Mutton Chops with Broken Wheat Upma,"Mutton chops, broken wheat, onions, spices, curry leaves",310,25,41,8,5,https://www.youtube.com/watch?v=-n7iBUS6yok  https://www.youtube.com/watch?v=wOcwdx-oqNg,Non-Veg
+dnr-062,Dinner,Chicken Roast with Lemon Rice,"Chicken, lemon rice, spices, curry leaves, green chilies",280,22,43,7,4,https://www.youtube.com/watch?v=uQsGtuyKEt0,Non-Veg
+dnr-063,Dinner,Karimeen Pollichathu with Steamed Rice,"Pearl spot fish, banana leaves, steamed rice, spices, coconut milk",260,18,42,6,3,https://www.youtube.com/watch?v=Ajpr8CmKWas,Non-Veg
+dnr-064,Dinner,Egg Curry with Vegetable Chapati,"Eggs, tomatoes, vegetable puree, whole wheat flour, spices",230,16,41,5,4,https://www.youtube.com/watch?v=xH2iedsq0qA  https://www.youtube.com/watch?v=Wnb4BWFBtxU,Non-Veg
+dnr-065,Dinner,Prawn Masala with Spinach Rice,"Prawns, spinach, cooked rice, spices, curry leaves",260,18,40,6,4,https://www.youtube.com/watch?v=XQqYIgw--5s  https://www.youtube.com/watch?v=WPym74iN2BU,Non-Veg
+dnr-066,Dinner,Chicken Kheema Curry with Ragi Chapati,"Minced chicken, onions, tomatoes, ragi flour, spices",290,23,38,7,5,https://www.youtube.com/watch?v=v087xBvRFLI  https://www.youtube.com/watch?v=aJHaw9eDP4E,Non-Veg
+dnr-067,Dinner,Mutton Kola Urundai with Thinai Pongal,"Mutton meatballs, thinai millet, spices, curry leaves",300,24,39,8,4,https://www.youtube.com/watch?v=SD8qldUJrUY&t=20s  https://www.youtube.com/watch?v=t4EmZG-vpR8&t=26s,Non-Veg
+dnr-068,Dinner,Crab Masala with Tomato Rice,"Crab, tomatoes, cooked rice, spices, curry leaves",270,19,44,7,4,https://www.youtube.com/watch?v=2BSVhda6tWs&t=7s  https://www.youtube.com/watch?v=W4rvMmdMxwE,Non-Veg
+dnr-069,Dinner,Fish Biriyani with Onion Pachadi,"Fish, basmati rice, yogurt, onions, spices",310,22,43,8,5,https://www.youtube.com/watch?v=VICRVFyXJvA,Non-Veg
+dnr-070,Dinner,Chicken Paya with Aappam,"Goat trotters, coconut milk, spices, aappam batter",280,24,40,7,4,https://www.youtube.com/watch?v=ot4DDdyV9aA  https://www.youtube.com/shorts/XMxSJCtx5Oc,Non-Veg
+dnr-071,Dinner,Meen Moilee with Coconut Rice,"Fish, coconut milk, cooked rice, ginger, green chilies",260,19,41,6,3,https://www.youtube.com/watch?v=MoDE9R0ZL4c&t=37s,Non-Veg
+dnr-072,Dinner,Egg Omelette Curry with Foxtail Millet,"Eggs, tomatoes, foxtail millet, spices, onions",230,17,39,5,4,https://www.youtube.com/watch?v=NjvpKGc7pEY,Non-Veg
+dnr-073,Dinner,Fish Head Curry with Red Rice,"Fish head, tamarind, red rice, curry leaves, spices",260,20,42,6,4,https://www.youtube.com/watch?v=0wsQOCrJYWU,Non-Veg
+dnr-074,Dinner,Mutton Biryani with Raitha,"Mutton, basmati rice, yogurt, onions, spices",320,25,45,9,5,https://www.youtube.com/watch?v=HI2-u2zu8Ss&t=12s,Non-Veg
+dnr-075,Dinner,Chicken Liver Masala with Varagu Rice,"Chicken liver, onions, tomatoes, varagu rice, spices",280,22,40,7,4,https://www.youtube.com/watch?v=mF1NwEzAYSU&t=33s,Non-Veg
+dnr-076,Dinner,Prawn Thengai Paal Kulambu with Idiyappam,"Prawns, coconut milk, idiyappam batter, curry leaves, spices",260,18,42,6,4,https://www.youtube.com/watch?v=R8_AZ-fWejM&t=17s,Non-Veg
+dnr-077,Dinner,Chicken Rasam with Jeera Rice,"Chicken, tamarind, jeera rice, pepper, curry leaves",230,21,42,5,4,https://www.youtube.com/watch?v=MTbKauqU2Ds,Non-Veg
+dnr-078,Dinner,Mutton Kurma with Bajra Roti,"Mutton, coconut paste, bajra flour, fennel seeds, spices",300,23,38,8,4,https://www.youtube.com/watch?v=i5F5RqY91MY,Non-Veg
+dnr-079,Dinner,Crab Rasam with Curd Rice,"Crab, tamarind, pepper, yogurt, cooked rice",260,19,42,6,4,https://www.youtube.com/watch?v=soPHles5wNw,Non-Veg
+dnr-080,Dinner,Quail Roast with Lemon Quinoa,"Quail, lemon, quinoa, spices, curry leaves",280,21,38,7,4,https://www.youtube.com/watch?v=RHW1uiZp-2g,Non-Veg
+dnr-081,Dinner,Palak Paneer with Garlic Naan,"Spinach, paneer, garlic, whole wheat flour, spices",300,14,39,8,4,https://www.youtube.com/watch?v=-rPNmeRkNSE,Veg
+dnr-082,Dinner,Rajma Masala with Jeera Rice,"Kidney beans, tomatoes, jeera rice, onions, spices",180,10,43,2,7,https://www.youtube.com/watch?v=nnvk38T-iq8&t=9s,Veg
+dnr-083,Dinner,Bhindi Masala with Bajra Roti,"Okra, tomatoes, bajra flour, spices, onions",210,6,37,4,6,https://www.youtube.com/watch?v=UcEwOxVOOKU,Veg
+dnr-084,Dinner,Baingan Bharta with Wheat Chapati,"Eggplant, onions, tomatoes, whole wheat flour, spices",190,5,40,3,6,https://www.youtube.com/shorts/6pgFokFi3zo,Veg
+dnr-085,Dinner,Dal Tadka with Ghee Rice,"Lentils, ghee, basmati rice, garlic, spices",220,8,45,5,7,https://www.youtube.com/watch?v=dOrTqBsvLaI,Veg
+dnr-086,Dinner,Gajar Matar Sabzi with Makki Roti,"Carrots, green peas, maize flour, green chilies, spices",210,7,38,4,6,https://www.youtube.com/results?search_query=Gajar+Matar+Sabzi+,Veg
+dnr-087,Dinner,Mushroom Masala with Brown Rice,"Mushrooms, tomatoes, brown rice, onions, spices",200,6,40,3,6,https://www.youtube.com/watch?v=3UC7hyRyV-I,Veg
+dnr-088,Dinner,Paneer Bhurji with Multigrain Paratha,"Paneer, onions, tomatoes, multigrain flour, spices",320,12,39,9,5,https://www.youtube.com/watch?v=KgW--wj5iBM,Veg
+dnr-089,Dinner,Vegetable Jalfrezi with Lemon Rice,"Mixed vegetables, tomatoes, lemon, cooked rice, spices",210,6,42,4,6,https://www.youtube.com/watch?v=0wAoYUYUO4Y,Veg
+dnr-090,Dinner,Lauki Kofta Curry with Quinoa,"Bottle gourd, besan (gram flour), quinoa, tomatoes, spices",240,8,39,3,6,https://www.youtube.com/watch?v=N389HBcUaGQ,Veg
+dnr-091,Dinner,Butter Chicken with Whole Wheat Naan,"Chicken, butter, tomatoes, cream, whole wheat flour",320,23,43,10,5,https://www.youtube.com/watch?v=RKNogWbAivY,Non-Veg
+dnr-092,Dinner,Chicken Tikka Masala with Steamed Rice,"Chicken, yogurt, tomatoes, basmati rice, spices",300,22,42,8,5,https://www.youtube.com/watch?v=c2MGcq_m6r4,Non-Veg
+dnr-093,Dinner,Fish Curry with Roti,"Fish, tamarind, whole wheat flour, tomatoes, spices",280,18,38,7,4,https://www.youtube.com/watch?v=aROKVWwp43U&t=25s,Non-Veg
+dnr-094,Dinner,Egg Biryani with Raita,"Eggs, basmati rice, yogurt, onions, spices",310,17,44,6,5,https://www.youtube.com/watch?v=5VapbxkA_UA,Non-Veg
+dnr-095,Dinner,Lamb Rogan Josh with Jeera Rice,"Lamb, yogurt, onions, jeera rice, spices",350,25,43,9,5,https://www.youtube.com/watch?v=KOhwStQdS_0,Non-Veg
+dnr-096,Dinner,Keema Matar with Bajra Chapati,"Minced mutton, green peas, bajra flour, onions, spices",320,23,38,8,4,https://www.youtube.com/watch?v=aaq8rtX43ac,Non-Veg
+dnr-097,Dinner,Tandoori Chicken with Vegetable Pulao,"Chicken, yogurt, basmati rice, mixed vegetables, spices",290,22,44,6,5,https://www.youtube.com/watch?v=A3lcRok1zf8,Non-Veg
+dnr-098,Dinner,Prawn Masala with Garlic Butter Naan,"Prawns, garlic, butter, tomatoes, whole wheat flour",340,18,42,7,4,https://www.youtube.com/watch?v=8tffsFaMgdY,Non-Veg
+dnr-099,Dinner,Chicken Shahi Korma with Cumin Rice,"Chicken, cream, coconut paste, basmati rice, spices",310,21,42,8,5,https://www.youtube.com/watch?v=8aUubUBEpIs,Non-Veg
+dnr-100,Dinner,Mutton Biryani with Onion Pachadi,"Mutton, basmati rice, yogurt, onions, spices",360,25,45,9,5,https://www.youtube.com/watch?v=E49fvjd6vtg,Non-Veg
+snk-001,Snacks,Kambu Kozhukattai,"Pearl millet flour, jaggery, grated coconut",150,4,18,2,4,https://www.youtube.com/watch?v=7YFW8CkVa_4,Veg
+snk-002,Snacks,Vazhaipoo Adai,"Banana flower, rice, toor dal, urad dal, red chilies",180,5,24,3,5,https://www.youtube.com/watch?v=suNnpd-etvY,Veg
+snk-003,Snacks,Murungai Keerai Dosa,"Drumstick leaves, rice, urad dal, fenugreek seeds",160,4,22,3,4,https://www.youtube.com/watch?v=GBoVIRXOM_w,Veg
+snk-004,Snacks,Sweet Rava Paniyaram,"Semolina (rava), jaggery, grated coconut, cardamom",200,4,28,6,2,https://www.youtube.com/watch?v=yoZlvFEkVys,Veg
+snk-005,Snacks,Millet Uthappam,"Millet flour, rice flour, curd, vegetables",190,6,26,3,5,https://www.youtube.com/watch?v=jdTBd94oY9Q,Veg
+snk-006,Snacks,Kambu Koozh,"Pearl millet flour, curd, water",120,3,15,1,4,https://www.youtube.com/watch?v=JJX59sRiF1A,Veg
+snk-007,Snacks,Ragi Murukku,"Ragi flour, rice flour, sesame seeds, butter",150,4,20,4,3,https://www.youtube.com/watch?v=1cjh-iGQqfw,Veg
+snk-008,Snacks,Ellu Kozhukattai,"Rice flour, sesame seeds, jaggery, coconut",140,3,18,3,4,https://www.youtube.com/watch?v=wZYPrp7YhMU,Veg
+snk-009,Snacks,Vegetable Sevai,"Rice noodles, mixed vegetables, curry leaves",170,4,35,3,4,https://www.youtube.com/watch?v=V8gCMKUGV0k,Veg
+snk-010,Snacks,Vazhaithandu Pachadi,"Banana stem, curd, coconut, green chilies",100,2,12,2,3,https://www.youtube.com/watch?v=L8Z82OiS0r4,Veg
+snk-011,Snacks,Millet Masala Paniyaram,"Millet flour, rice flour, curd, spices",160,5,25,4,5,https://www.youtube.com/watch?v=B8Y8silrWW0,Veg
+snk-012,Snacks,Samai Pongal,"Little millet, moong dal, pepper, cumin",200,6,32,5,4,https://www.youtube.com/watch?v=9f80LMaJhVs,Veg
+snk-013,Snacks,Banana Stem Idli,"Banana stem, rice, urad dal",120,3,14,2,3,https://www.youtube.com/watch?v=_OVv6i4Cyrs,Veg
+snk-014,Snacks,Vendakkai Kara Kuzhambu Rice,"Lady's finger, tamarind, spices, cooked rice",220,4,36,5,4,https://www.youtube.com/watch?v=fcGA66TlMqA,Veg
+snk-015,Snacks,Cucumber Raita Rice,"Cooked rice, cucumber, curd",180,5,27,4,3,https://www.youtube.com/watch?v=hKW8bAM2k10,Veg
+snk-016,Snacks,Kootu Curry with Red Poha,"Red poha, mixed vegetables, coconut, spices",210,6,30,6,5,https://www.youtube.com/watch?v=oRAJc2KhLXk,Veg
+snk-017,Snacks,Pachai Payaru Upma,"Whole green gram, semolina, curry leaves",190,7,28,3,6,https://www.youtube.com/watch?v=v5iRnDiBcwA,Veg
+snk-018,Snacks,Avarakkai Stir Fry,"Broad beans, coconut, mustard seeds",120,3,12,2,3,https://www.youtube.com/watch?v=hNvRsqdjPXI,Veg
+snk-019,Snacks,Brinjal Gothsu with Millet,"Brinjal, tamarind, spices, millet",190,6,22,3,5,https://www.youtube.com/watch?v=B1xt7SNj8AQ,Veg
+snk-020,Snacks,Puliodarai with Curry Leaves,"Rice, tamarind, curry leaves, spices",210,4,34,5,4,https://www.youtube.com/watch?v=uSVxMUugglo,Veg
+snk-021,Snacks,Vazhaipoo Vadai with Curd Rice,"Banana flower, chana dal, curd, cooked rice",220,7,36,6,5,https://www.youtube.com/shorts/DhwlKtfv3yU,Veg
+snk-022,Snacks,Ridge Gourd Pachadi,"Ridge gourd, curd, coconut",110,3,10,2,3,https://www.youtube.com/watch?v=hmZ7PRhBE_w,Veg
+snk-023,Snacks,Thinai Kesari,"Foxtail millet, sugar, ghee, cardamom",180,3,30,4,2,https://www.youtube.com/watch?v=dfycLAE45NY,Veg
+snk-024,Snacks,Paruppu Vadai,"Chana dal, red chilies, curry leaves",160,5,15,5,4,https://www.youtube.com/watch?v=iW5YUWujQVo&t=10s,Veg
+snk-025,Snacks,Green Gram Adai,"Whole green gram, rice, spices",190,7,25,4,6,https://www.youtube.com/watch?v=AR5FzBgZd9g,Veg
+snk-026,Snacks,Drumstick Leaf Sundal,"Drumstick leaves, coconut, chana dal",140,5,18,3,5,https://www.youtube.com/watch?v=-Tq4MhOtU7E,Veg
+snk-027,Snacks,Sweet Corn Kozhukattai,"Sweet corn, rice flour, coconut",150,4,20,3,3,https://www.youtube.com/watch?v=cZl1WKrgVjI,Veg
+snk-028,Snacks,Arachuvitta Sambar with Kuthiraivali,"Barnyard millet, lentils, tamarind, spices",220,6,30,5,5,https://www.youtube.com/watch?v=OD6zimvbOuU,Veg
+snk-029,Snacks,Ash Gourd Pachadi,"Ash gourd, curd, coconut",100,2,10,2,3,https://www.youtube.com/shorts/fQA9_u_DCSk,Veg
+snk-030,Snacks,Puli Pongal,"Rice, tamarind, spices",200,5,28,5,4,https://www.youtube.com/watch?v=h8dCrTO12Rg,Veg
+snk-031,Snacks,Pumpkin Masiyal,"Pumpkin, coconut, green chilies",110,3,12,2,3,https://www.youtube.com/watch?v=rLeAg3mher8,Veg
+snk-032,Snacks,Keerai Paruppu Sadam,"Spinach, rice, lentils",210,7,30,4,5,https://www.youtube.com/watch?v=eCHVLzxtclQ,Veg
+snk-033,Snacks,Chow Chow Stir Fry with Coconut,"Chayote, coconut, mustard seeds",130,3,15,4,3,https://www.youtube.com/shorts/kNdBTk8QsW4,Veg
+snk-034,Snacks,Karamani Sundal,"Black-eyed peas, coconut, curry leaves",150,6,20,2,5,https://www.youtube.com/watch?v=xOUDGT2pTbw&t=0s,Veg
+snk-035,Snacks,Poosanikai Kootu,"Pumpkin, coconut, spices",160,5,25,4,4,https://www.youtube.com/watch?v=qUGwp5soDYA&t=2s,Veg
+snk-036,Snacks,Vazha Thandu Poriyal,"Banana stem, coconut, mustard seeds",120,3,15,2,3,https://www.youtube.com/watch?v=NdH7F0MMLfw,Veg
+snk-037,Snacks,Coconut Poli,"Maida, coconut, jaggery, ghee",230,4,40,7,3,https://www.youtube.com/watch?v=hk3yMamu5hw,Veg
+snk-038,Snacks,Puliyodarai with Sprouted Moong Dal,"Tamarind, rice, sprouted moong dal, spices",210,6,35,5,5,https://www.youtube.com/shorts/W5I_DxEylKE,Veg
+snk-039,Snacks,Thengai Vadam,"Rice flour, coconut, sesame seeds",150,3,20,4,3,https://www.youtube.com/watch?v=UpSvCaMjFGU,Veg
+snk-040,Snacks,Jackfruit Seed Curry,"Jackfruit seeds, coconut, spices",160,4,22,3,4,https://www.youtube.com/watch?v=5xgHQil0QL4,Veg
+snk-041,Snacks,Meen Varuval,"Fish, turmeric, chili powder, curry leaves",200,18,5,8,1,https://www.youtube.com/watch?v=EcnHCapZk6o,Non-Veg
+snk-042,Snacks,Kozhi Varutha Curry,"Chicken, onions, tomatoes, spices",250,20,8,10,1,https://www.youtube.com/watch?v=XjnyHwWucc4,Non-Veg
+snk-043,Snacks,Prawn Masala Dosa,"Prawns, dosa batter, spices",230,12,20,6,3,https://www.youtube.com/watch?v=KZY-ujxnsfQ,Non-Veg
+snk-044,Snacks,Fish Kuzhambu with Ragi Idiyappam,"Fish, tamarind, ragi idiyappam",210,16,28,6,3,https://www.youtube.com/watch?v=ZKFHKxeV7Z0,Non-Veg
+snk-045,Snacks,Chicken Chops with Lemon Quinoa,"Chicken, quinoa, lemon",280,22,30,10,4,https://www.youtube.com/watch?v=X-b2ykEyRdk,Non-Veg
+snk-046,Snacks,Crab Fry with Coconut Chutney,"Crab, coconut, spices",220,18,8,10,2,https://www.youtube.com/watch?v=s0zWlmbIrLQ,Non-Veg
+snk-047,Snacks,Mutton Keema Idli,"Mutton keema, idli batter",230,14,20,8,3,https://www.youtube.com/watch?v=gVW_98eilUo,Non-Veg
+snk-048,Snacks,Egg Podimas with Kambu Roti,"Eggs, pearl millet flour, spices",240,13,25,7,4,https://www.youtube.com/watch?v=tXVUqtKOjL4,Non-Veg
+snk-049,Snacks,Chicken Puttu,"Chicken, rice flour, coconut",250,15,22,6,3,https://www.youtube.com/watch?v=EWsmKV7NMIg,Non-Veg
+snk-050,Snacks,Meen Pollichathu with Bajra Roti,"Fish, banana leaf, spices, pearl millet flour",280,18,28,8,4,https://www.youtube.com/watch?v=Ajpr8CmKWas,Non-Veg
+snk-051,Snacks,Crab Rasam with Broken Wheat Pongal,"Crab, tamarind, broken wheat, spices",240,16,30,5,4,https://www.youtube.com/watch?v=35yyw03KQJI,Non-Veg
+snk-052,Snacks,Egg Bhurji Dosa,"Eggs, dosa batter, onions, green chilies",250,12,24,6,3,https://www.youtube.com/watch?v=glUEnS8J84Q,Non-Veg
+snk-053,Snacks,Quail Biryani with Pachadi,"Quail, rice, curd",350,22,35,8,3,https://www.youtube.com/watch?v=97ip8VlxxxA,Non-Veg
+snk-054,Snacks,Country Chicken Curry with Thinai,"Country chicken, foxtail millet, spices",300,20,30,8,4,https://www.youtube.com/watch?v=Gx62kxN9Zz0,Non-Veg
+snk-055,Snacks,Prawn Uthappam,"Prawns, dosa batter, vegetables",200,14,22,5,3,https://www.youtube.com/watch?v=tRJIEVcT2Lo,Non-Veg
+snk-056,Snacks,Chicken Liver Roast with Jeera Rice,"Chicken liver, rice, cumin",280,18,26,7,3,https://www.youtube.com/watch?v=piy-55EkvRI&t=5s,Non-Veg
+snk-057,Snacks,Fish Moilee with Kuthiraivali Idli,"Fish, coconut milk, barnyard millet idli",260,16,28,6,4,https://www.youtube.com/watch?v=3buzIK98jd4,Non-Veg
+snk-058,Snacks,Mutton Kulambu with Foxtail Millet,"Mutton, spices, foxtail millet",310,22,32,8,4,https://www.youtube.com/watch?v=uEl7cLuhWHM,Non-Veg
+snk-059,Snacks,Chicken Stew with Ragi Dosa,"Chicken, coconut milk, ragi dosa",290,18,28,7,3,https://www.youtube.com/watch?v=gLlUX0xayhg,Non-Veg
+snk-060,Snacks,Nandu Masala with Tomato Sadam,"Crab, tomatoes, rice",300,20,30,6,4,https://www.youtube.com/watch?v=VsPQsZrClfM,Non-Veg
+snk-061,Snacks,Prawn Thokku with Vegetable Sevai,"Prawns, rice noodles, spices",240,14,30,6,3,https://www.youtube.com/watch?v=HNSX3FKjAIM&t=40s,Non-Veg
+snk-062,Snacks,Meen Paniyaram,"Fish, paniyaram batter, spices",200,12,22,5,3,https://www.youtube.com/watch?v=gixS3Cy0cUs,Non-Veg
+snk-063,Snacks,Crab Soup,"Crab, tamarind",220,16,24,6,3,https://www.youtube.com/shorts/AAL8PLqKIzQ,Non-Veg
+snk-064,Snacks,Kozhi Milagu Soup,"Chicken, pepper, spices",150,12,10,4,1,https://www.youtube.com/watch?v=nKOzjnvTTSA,Non-Veg
+snk-065,Snacks,Egg Omelette Sandwich (South Indian Style),"Eggs, bread, curry leaves",250,12,22,8,3,https://www.youtube.com/watch?v=rNkHiCMKV9o,Non-Veg
+snk-066,Snacks,Prawn Pulao with Coconut Milk,"Prawns, rice, coconut milk",300,15,35,9,4,https://www.youtube.com/watch?v=Ne1R6F-HCYc,Non-Veg
+snk-067,Snacks,Chicken Fry with Vazhai Thandu Sadam,"Chicken, banana stem, rice",320,18,30,8,4,https://www.youtube.com/watch?v=ctr2fOYohSU,Non-Veg
+snk-068,Snacks,Fish Finger Puttu,"Fish fingers, rice flour, coconut",250,14,22,7,3,https://www.youtube.com/watch?v=bPPkDK_WeYI,Non-Veg
+snk-069,Snacks,Kola Urundai ,Mutton balls,280,18,30,8,3,https://www.youtube.com/watch?v=tpVTOe14_fQ,Non-Veg
+snk-070,Snacks,Prawn Rasam ,"Prawns, tamarind, pearl millet idli",230,16,25,6,3,https://www.youtube.com/watch?v=MghxBW_GEwM,Non-Veg
+snk-071,Snacks,Chicken Pakora with Coconut Chutney,"Chicken, chickpea flour, coconut chutney",300,18,18,10,2,https://www.youtube.com/watch?v=npUs0z_mAIg,Non-Veg
+snk-072,Snacks,Mutton Kheema Dosa,"Mutton keema, dosa batter",350,22,28,9,3,https://www.youtube.com/watch?v=dkzV240CvD8,Non-Veg
+snk-073,Snacks,Fish Fry ,Fish,300,20,30,7,3,https://www.youtube.com/shorts/btAxITiGZl4,Non-Veg
+snk-074,Snacks,Chicken Kulambu with Appam,"Chicken, coconut milk, appam",320,18,32,8,4,https://www.youtube.com/watch?v=i5JnhGdFwn8,Non-Veg
+snk-075,Snacks,Mutton Masala Paniyaram,"Mutton, paniyaram batter, spices",300,20,25,9,3,https://www.youtube.com/watch?v=ORHckg5QgW8,Non-Veg
+snk-076,Snacks,Egg Biryani with Pachadi,"Eggs, rice, curd",350,18,35,8,3,https://www.youtube.com/watch?v=5VapbxkA_UA&t=6s,Non-Veg
+snk-077,Snacks,Prawn Curry with Thengai Sadam,"Prawns, coconut rice",300,15,30,8,4,https://www.youtube.com/watch?v=3N8gnvk5Jac,Non-Veg
+snk-078,Snacks,Chicken Idli Fry,"Idlis, chicken, spices",250,15,20,6,3,https://www.youtube.com/shorts/L06WbaXrKME,Non-Veg
+snk-079,Snacks,Fish Biryani with Keerai Pachadi,"Fish, rice, spinach, curd",350,22,38,8,4,https://www.youtube.com/watch?v=VICRVFyXJvA&t=12s,Non-Veg
+snk-080,Snacks,Mutton Sukka with Kambu Chapati,"Mutton, pearl millet flour",320,22,28,9,4,https://www.youtube.com/watch?v=P2SGDHHelis&t=22s,Non-Veg
+snk-081,Snacks,Vegetable Kathi Roll,"Wheat roti, mixed vegetables, spices",250,8,30,6,4,https://www.youtube.com/watch?v=gF_hAClbJhk,Veg
+snk-082,Snacks,Aloo Tikki Chaat,"Potatoes, chaat masala, curd",200,5,28,5,3,https://www.youtube.com/shorts/AWd0TOeAPm4,Veg
+snk-083,Snacks,Paneer Pakora,"Paneer, chickpea flour, spices",250,10,20,8,2,https://www.youtube.com/watch?v=HR6GvbwG5fE,Veg
+snk-084,Snacks,Rajma Kebab,"Kidney beans, spices",200,6,22,4,5,https://www.youtube.com/watch?v=_HqrdCrmA6w,Veg
+snk-085,Snacks,Sweet Potato Chaat,"Sweet potato, tamarind chutney, spices",180,3,30,3,4,https://www.youtube.com/shorts/w8vuJctQX-M,Veg
+snk-086,Snacks,Dhokla with Mint Chutney,"Gram flour, curd, mint chutney",200,8,22,4,3,https://www.youtube.com/watch?v=cAmCVTe3BgU,Veg
+snk-087,Snacks,Masala Papad with Sprouts,"Papad, sprouts, onions, tomatoes",150,6,18,4,3,https://www.youtube.com/watch?v=6dTvVmGK5OY,Veg
+snk-088,Snacks,Bhindi Fry with Rice Flour,"Lady's finger, rice flour, spices",160,3,20,4,3,https://www.youtube.com/shorts/nuzooxDlwq0,Veg
+snk-089,Snacks,Pav Bhaji (Low Butter),"Mixed vegetables, pav buns, spices",250,8,30,5,4,https://www.youtube.com/watch?v=dz6eh3U5zEM&t=113s,Veg
+snk-090,Snacks,Moong Dal Chilla,"Split green gram, spices",180,7,25,4,4,https://www.youtube.com/watch?v=6JXC5N9hF6k,Veg
+snk-091,Snacks,Chicken Tikka Wrap,"Chicken tikka, wheat roti, vegetables",300,20,28,8,4,https://www.youtube.com/shorts/am-94QT4dPk,Non-Veg
+snk-092,Snacks,Egg Roll with Veggies,"Eggs, wheat roti, mixed vegetables",280,12,26,7,3,https://www.youtube.com/shorts/ZGHxYcZSVX8,Non-Veg
+snk-093,Snacks,Fish Cutlet,"Fish, potatoes, bread crumbs",220,12,18,6,2,https://www.youtube.com/watch?v=Ugb-IAfww8E,Non-Veg
+snk-094,Snacks,Mutton Samosa,"Mutton keema, wheat flour, spices",300,14,25,8,3,https://www.youtube.com/watch?v=gQDWO8HGzq8,Non-Veg
+snk-095,Snacks,Prawn Pakora,"Prawns, chickpea flour, spices",250,15,20,7,2,https://www.youtube.com/watch?v=URdhm1ooA1c,Non-Veg
+snk-096,Snacks,Chicken 65,"Chicken, yogurt, spices",280,20,10,12,2,https://www.youtube.com/watch?v=0ksbDm7wbJg,Non-Veg
+snk-097,Snacks,Keema Pav,"Mutton keema, pav bread",320,18,35,9,3,https://www.youtube.com/watch?v=JKX58rOldgs,Non-Veg
+snk-098,Snacks,Crab Cutlet,"Crab meat, bread crumbs, spices",230,15,15,7,2,https://www.youtube.com/watch?v=wF4KNuy68bk,Non-Veg
+snk-099,Snacks,Egg Paratha,"Eggs, wheat flour",280,12,30,8,3,https://www.youtube.com/watch?v=pZfFVm6xth8,Non-Veg
+snk-100,Snacks,Chicken Baida Roti,"Chicken, eggs, wheat flour",300,18,28,9,3,https://www.youtube.com/watch?v=HDSLKA9EwDk,Non-Veg
