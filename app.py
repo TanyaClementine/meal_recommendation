@@ -12,7 +12,7 @@ configure(api_key="AIzaSyAFlHn5F45jt1yU8_oSabjRAGCZCQGXwPQ")
 genai_model = GenerativeModel("gemini-pro")
 
 
-# Load dataset
+# Load dataset --
 df = pd.read_csv("mealdata.csv")
 
 # Function to get user input
